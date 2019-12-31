@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Residenti Bologna"
-permalink: /datavisualization/residenti_bologna/
+<!-- permalink: /datavisualization/residenti_bologna/ -->
 ---
 
 
