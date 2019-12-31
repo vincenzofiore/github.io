@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Residenti Bologna"
-<!-- permalink: /datavisualization/residenti_bologna/ -->
+title: Residenti Bologna
 ---
 Pagina test
 
