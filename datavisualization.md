@@ -5,4 +5,4 @@ permalink: /data-visualization/
 ---
 Pagina test
 
-<!-- {% include_relative datavisualization/maps/residentiBoMap.html %} -->
+{% include_relative datavisualization/maps/residentiBoMap.html %}
